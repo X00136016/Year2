@@ -1,0 +1,27 @@
+Fri Oct 19 19:35:01 IST 2018
+Fri Oct 19 19:36:01 IST 2018
+Fri Oct 19 19:37:01 IST 2018
+Fri Oct 19 19:38:01 IST 2018
+Fri Oct 19 19:39:01 IST 2018
+total 72
+-rw-rw-r-- 1 student student    0 Oct 19 20:37 bah.txt
+-rw-rw-r-- 1 student student    0 Oct 19 20:37 blah.txt
+drwxr-xr-x 2 student student 4096 Sep 11 12:41 Desktop
+drwxr-xr-x 2 student student 4096 Sep 11 12:33 Documents
+drwxr-xr-x 2 student student 4096 Sep 11 12:33 Downloads
+-rwx------ 1 student student  220 Oct 18 16:54 exc2.sh
+-rwx------ 1 student student  242 Oct 23 19:03 exc3.sh
+-rwx------ 1 student student   53 Oct 19 20:32 exc6.sh
+-rwx------ 1 student student   62 Oct 19 21:12 exc7.sh
+-rw-rw-r-- 1 student student    0 Oct 23 19:27 file2
+-rwx------ 1 student student  221 Oct 23 18:25 ifs.sh
+-rwx------ 1 student student  202 Oct 23 19:27 lab6.sh
+drwxr-xr-x 2 student student 4096 Sep 11 12:33 Music
+drwxr-xr-x 2 student student 4096 Sep 11 12:33 Pictures
+-rwx------ 1 student student   66 Oct 23 19:15 prac.sh
+drwxr-xr-x 2 student student 4096 Sep 11 12:33 Public
+-rw-rw-r-- 1 student student  145 Oct 19 19:39 sean.txt
+-rwx------ 1 student student  212 Oct 19 20:27 showinfo.sh
+drwxr-xr-x 3 student student 4096 Sep 11 12:45 snap
+drwxr-xr-x 2 student student 4096 Sep 11 12:33 Templates
+drwxr-xr-x 2 student student 4096 Sep 11 12:33 Videos
