@@ -7,7 +7,7 @@ def readFromKB():
 
 #Validate the email and print the result
 def validateEmail(email):
-    if re.match("[a-zA-Z0-9]+@gmail+\.(com|ie|co.uk)", email):
+    if re.match("[a-zA-Z0-9]+@[a-zA-Z]+\.(com|ie|co.uk)", email):
         print( email, " is valid")
     else:
         print(email, " is not valid")
